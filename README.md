@@ -1,6 +1,6 @@
 # dispatching Delivery Management System
 
-A full-stack delivery management system with real-time messaging capabilities built with React, Node.js, MySQL, and Centrifugo.
+- A full-stack delivery management system with real-time messaging capabilities built with React, Node.js, MySQL, and Centrifugo.
 
 ## Project Structure
 
@@ -67,4 +67,3 @@ A full-stack delivery management system with real-time messaging capabilities bu
    cd Web
    npm run dev
    ```
-
